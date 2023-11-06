@@ -6,15 +6,15 @@ This repository contains Python code and data to reproduce Fig. 2-4 in the paper
 
 Folder 'code/':
 The Folder 'code/' contains Python code to fully reproduce Fig. 2, and can reproduce Fig. 3-4 without the maps.
-Individual panels (3) of Fig. 5 can be reproduced should you obtain WWLLN data and place it in the 'imported_data/' folder. 
+Individual panels (3) of Fig. 5 can be reproduced should you obtain WWLLN data and place it in the 'imported_data/' folder.<br>
 World Wide Lightning Location Network data is available at nominal cost from http://wwlln.net.
 When requesting WWLLN data, search the box (50N,126W) - (36N,102.5W) for the following days:
-29,30 April 2020
-19,20 May 2020
-5,6 June 2020
+29,30 April 2020, 
+19,20 May 2020, 
+5,6 June 2020.<br>
 The subfolder 'code/supporting_information/' also contains code to reproduce the Supporting Information Fig. S1-3, and S5.
 
-The Folder 'Figures/' contains image files of the figures in the paper.
+The Folder 'Figures/' contains image files of the figures in the paper.<br>
 The subfolder 'code/maps/' contains QGIS map files and .jpg files with the maps for Fig. 3-4.
 
 The Folder 'imported_data/' contains data files including Snake River discharge data and Stanely Ranger station temperature data. Should you obtain WWLLN data this is where you should place the files.
