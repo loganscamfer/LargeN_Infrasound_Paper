@@ -24,11 +24,11 @@ The Folder 'pickle_files/' contains multiple data files seperated into subfolder
 The File XP.PARK is an XML
 ### Before running code:
 For the code to run successfully, you must have Python and dependent packages installed. An easy way to do this uses Anaconda or Miniconda (which you must install beforehand):
-'''
+```
 conda deactivate
 conda create -y -n large_N_infrasound python=3.9.12 matplotlib=3.6.2 obspy=1.4.0 pandas=1.5.2 numpy=1.21.6
 conda activate large_N_infrasound
-'''
+```
 These commands should run on any python terminal or IDE. When running code, you must set the 'Large_N_Infrasound_Paper/' as your working directory.
 
 
