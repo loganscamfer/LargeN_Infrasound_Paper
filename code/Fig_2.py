@@ -321,4 +321,4 @@ cb1.set_label(label='     # of detections',loc='bottom',fontsize=18)
 # Title, size, and saving
 plt.gcf().set_size_inches(18,14)
 
-plt.savefig('Figures/Fig_2.jpg',dpi=800)
+plt.savefig('Figures/Fig_2.jpg',dpi=600)

@@ -238,4 +238,4 @@ cb.set_label(label='# of detections',fontsize=18)
 # Title, size, and saving
 plt.gcf().set_size_inches(18,10.5)
 plt.suptitle('0.1 to 0.5 Hz, N=22',fontsize=22,weight='bold')
-plt.savefig('Figures/Fig_S1.jpg',dpi=800)
+plt.savefig('Figures/Fig_S1.jpg',dpi=600)
