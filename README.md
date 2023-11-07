@@ -15,7 +15,7 @@ When requesting WWLLN data, search the box (50N,126W) - (36N,102.5W) for the fol
 The subfolder 'code/supporting_information/' also contains code to reproduce the Supporting Information Fig. S1-S5.
 
 The Folder 'Figures/' contains image files of the figures in the paper.<br>
-The subfolder 'code/maps/' contains QGIS map files and .jpg files with the maps for Fig. 3-4.
+The subfolder 'code/maps/' contains QGIS map files and image files with the maps for Fig. 3-4.
 
 The Folder 'imported_data/' contains data files including Snake River discharge, Stanely Ranger station temperature data, and infrasound data for Fig. S4. Should you obtain WWLLN data this is where you should place the files.
 
